@@ -362,17 +362,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0293552"
-     inkscape:cx="499.82746"
-     inkscape:cy="93.748008"
+     inkscape:zoom="2.9114562"
+     inkscape:cx="572.90919"
+     inkscape:cy="195.26311"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1850"
-     inkscape:window-height="1055"
-     inkscape:window-x="-7"
-     inkscape:window-y="-7"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:pagecheckerboard="0"
@@ -533,7 +533,7 @@
          y="41.142681"
          x="74.345757"
          sodipodi:role="line"
-         id="tspan3505">KDRZ</tspan></text>
+         id="tspan3505">Knu+</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.56516px;font-family:'Yu Gothic UI';-inkscape-font-specification:'Yu Gothic UI';fill:#000000;stroke:#000000;stroke-width:0.26528;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
@@ -600,7 +600,7 @@
        transform="matrix(2.485186,0,0,1.7064159,-268.91991,-41.194686)"><tspan
          x="117.20092"
          y="78.473564"
-         id="tspan1">TLS</tspan></text>
+         id="tspan5">TLS</tspan></text>
     <path
        d="m 158.78911,54.989015 -2.10932,8.418441 h -1.26127 l -2.08034,-6.489047 -2.06584,6.489047 h -1.25399 l -2.13108,-8.418441 h 1.42074 l 1.48592,6.519205 2.02236,-6.519205 h 1.12353 l 2.07309,6.519205 1.40619,-6.519205 z"
        id="text252"
@@ -681,10 +681,10 @@
        transform="matrix(1.5300585,0,0,1.0505919,-11.893051,-42.642119)"><tspan
          x="38.929287"
          y="128.73657"
-         id="tspan3">BLK&#10;</tspan><tspan
+         id="tspan20">BLK&#10;</tspan><tspan
          x="38.929287"
          y="134.56056"
-         id="tspan4">&#10;</tspan></text>
+         id="tspan21">&#10;</tspan></text>
     <path
        id="path101"
        style="fill:none;stroke:#000000;stroke-width:0.361757;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
@@ -808,7 +808,7 @@
          y="41.381027"
          x="122.27757"
          sodipodi:role="line"
-         id="tspan2">KTR</tspan></text>
+         id="tspan2">K-T</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -912,5 +912,9 @@
        id="path1853"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.488972;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 152.79153,68.688331 -7.95198,6.850457 m -0.35073,-14.989621 -7.95198,6.850469 m 35.13044,1.288695 -7.95203,6.850457 m 7.95202,-25.735855 -7.952,6.850457 m -19.22643,-14.671715 -7.952,6.850468 m 26.89258,-7.104834 -7.952,6.850453 m 0,0 8.23785,8.075628 -2e-5,18.885398 h -18.8757 l -8.30274,-8.139117 V 48.832194 Z m 7.952,-6.850453 8.23785,8.075601 v 18.885397 h -18.87573 l -8.30276,-8.139105 V 41.981715 Z" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.566441;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.39583;stroke-dasharray:1.69933, 0.566441;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 92.443453,54.854969 13.310027,9.746579"
+       id="path1" />
   </g>
 </svg>
