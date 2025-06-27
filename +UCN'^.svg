@@ -363,8 +363,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.9114562"
-     inkscape:cx="572.90919"
-     inkscape:cy="195.26311"
+     inkscape:cx="136.35788"
+     inkscape:cy="194.91964"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -423,7 +423,7 @@
        d="m 34.895224,57.576364 a 4.696853,4.696853 0 0 1 -4.696823,4.696823 4.696853,4.696853 0 0 1 -4.69686,-4.696823 4.696853,4.696853 0 0 1 4.69686,-4.696831 4.696853,4.696853 0 0 1 4.696823,4.696831 z" />
     <path
        id="circle1978"
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.324278;stroke-miterlimit:4.16667;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.35;stroke-miterlimit:4.16667;stroke-dasharray:1.05,0.35;stroke-dashoffset:0"
        d="m 33.84736,57.576354 a 3.6489759,3.6489759 0 0 1 -3.648959,3.648959 3.6489759,3.6489759 0 0 1 -3.648978,-3.648959 3.6489759,3.6489759 0 0 1 3.648978,-3.648949 3.6489759,3.6489759 0 0 1 3.648959,3.648949 z" />
     <path
        id="ellipse2012"
@@ -451,7 +451,7 @@
        id="path2034" />
     <path
        id="ellipse2038"
-       style="fill:none;stroke:#000000;stroke-width:0.332793;stroke-miterlimit:4.1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4.1;stroke-dasharray:none"
        d="m 58.809607,57.689174 a 5.4153569,5.3120699 0 0 1 -5.41536,5.312043 5.4153569,5.3120699 0 0 1 -5.415332,-5.312043 5.4153569,5.3120699 0 0 1 5.415332,-5.312047 5.4153569,5.3120699 0 0 1 5.41536,5.312047 z" />
     <text
        xml:space="preserve"
@@ -600,7 +600,7 @@
        transform="matrix(2.485186,0,0,1.7064159,-268.91991,-41.194686)"><tspan
          x="117.20092"
          y="78.473564"
-         id="tspan5">TLS</tspan></text>
+         id="tspan1">TLS</tspan></text>
     <path
        d="m 158.78911,54.989015 -2.10932,8.418441 h -1.26127 l -2.08034,-6.489047 -2.06584,6.489047 h -1.25399 l -2.13108,-8.418441 h 1.42074 l 1.48592,6.519205 2.02236,-6.519205 h 1.12353 l 2.07309,6.519205 1.40619,-6.519205 z"
        id="text252"
@@ -681,10 +681,10 @@
        transform="matrix(1.5300585,0,0,1.0505919,-11.893051,-42.642119)"><tspan
          x="38.929287"
          y="128.73657"
-         id="tspan20">BLK&#10;</tspan><tspan
+         id="tspan3">BLK&#10;</tspan><tspan
          x="38.929287"
          y="134.56056"
-         id="tspan21">&#10;</tspan></text>
+         id="tspan4">&#10;</tspan></text>
     <path
        id="path101"
        style="fill:none;stroke:#000000;stroke-width:0.361757;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
@@ -743,7 +743,7 @@
        d="m 91.898307,54.265004 h 23.519523 v 22.75975 H 91.898307 Z" />
     <path
        id="path145"
-       style="fill:none;stroke:#000000;stroke-width:0.332793;stroke-miterlimit:4.1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0;stroke-miterlimit:4.1;stroke-dasharray:none"
        d="m 58.809607,57.689174 a 5.4153569,5.3120699 0 0 1 -5.41536,5.312043 5.4153569,5.3120699 0 0 1 -5.415332,-5.312043 5.4153569,5.3120699 0 0 1 5.415332,-5.312047 5.4153569,5.3120699 0 0 1 5.41536,5.312047 z" />
     <text
        xml:space="preserve"
