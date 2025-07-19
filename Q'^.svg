@@ -23,12 +23,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.0747123"
+     inkscape:zoom="2.1494246"
      inkscape:cx="561.08039"
-     inkscape:cy="396.85039"
+     inkscape:cy="359.86375"
      inkscape:window-width="1858"
      inkscape:window-height="1057"
-     inkscape:window-x="-8"
+     inkscape:window-x="54"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -139,14 +139,6 @@
        d="M 177.40868,87.904392 162.09682,129.63921"
        id="path107" />
     <path
-       style="fill:#00ff00;fill-opacity:1;stroke:#0066ff;stroke-width:2.62596;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 105.426,109.70238 3.69868,12.74367"
-       id="path108" />
-    <path
-       style="fill:#d400aa;fill-opacity:1;stroke:#cc00ff;stroke-width:2.64472;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:63.4734, 2.64472;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 118.42109,72.089359 13.29484,-8.937116"
-       id="path110" />
-    <path
        id="path122"
        style="fill:#ececec;stroke:#000000;stroke-width:0.865551;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        inkscape:transform-center-x="0.09022962"
@@ -213,8 +205,26 @@
        style="font-size:16.4716px;line-height:1.25;letter-spacing:0px;stroke:#000000;stroke-width:0.594236"
        aria-label="1" />
     <path
-       style="fill:#0000ff;fill-opacity:1;stroke:#0066ff;stroke-width:2.62596;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 162.51565,111.06836 -4.82982,12.35938"
-       id="path4" />
+       id="path1-2"
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0"
+       d="m 157.95922,74.993806 -1.17884,1.645898 10.10149,7.234984 1.17884,-1.645898 z" />
+    <g
+       id="g1"
+       transform="rotate(68.933476,134.35394,94.289147)"
+       style="fill:#0000ff;stroke:#000000">
+      <path
+         id="path2-4"
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0"
+         d="m 167.73872,101.9424 -1.89357,-0.71629 4.35341,-11.508648 1.89356,0.716285 z" />
+    </g>
+    <g
+       id="g4"
+       transform="matrix(-0.99486988,-0.10116283,-0.10116283,0.99486988,279.80121,18.077344)"
+       style="fill:#00ff00;stroke:#000000">
+      <path
+         id="path4"
+         style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0"
+         d="m 167.73872,101.9424 -1.89357,-0.71629 4.35341,-11.508648 1.89356,0.716285 z" />
+    </g>
   </g>
 </svg>
