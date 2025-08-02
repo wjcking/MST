@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.1494246"
-     inkscape:cx="561.08039"
-     inkscape:cy="359.86375"
-     inkscape:window-width="1858"
-     inkscape:window-height="1057"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:zoom="1.0200267"
+     inkscape:cx="561.25984"
+     inkscape:cy="396.55826"
+     inkscape:window-width="1849"
+     inkscape:window-height="1055"
+     inkscape:window-x="64"
+     inkscape:window-y="-7"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -206,7 +206,7 @@
        aria-label="1" />
     <path
        id="path1-2"
-       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0"
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0"
        d="m 157.95922,74.993806 -1.17884,1.645898 10.10149,7.234984 1.17884,-1.645898 z" />
     <g
        id="g1"
@@ -220,10 +220,10 @@
     <g
        id="g4"
        transform="matrix(-0.99486988,-0.10116283,-0.10116283,0.99486988,279.80121,18.077344)"
-       style="fill:#00ff00;stroke:#000000">
+       style="fill:#ff0000;stroke:#000000">
       <path
          id="path4"
-         style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0"
          d="m 167.73872,101.9424 -1.89357,-0.71629 4.35341,-11.508648 1.89356,0.716285 z" />
     </g>
   </g>
